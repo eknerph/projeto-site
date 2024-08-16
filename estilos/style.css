@@ -41,10 +41,19 @@ img.lado {
     color: rgb(26, 26, 255);
  }
 
- .crvideo {
+ .crvideo1 {
     position: absolute;
     display: flex;
     top: 140px;
     left: 140px;
+    
+ } 
+
+ .crvideo2 {
+    position: absolute;
+    display: flex;
+    justify-content: right;
+    align-items: start;
+    height: 100%;
     
  } 
