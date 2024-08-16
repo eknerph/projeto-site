@@ -40,3 +40,9 @@ img.lado {
     text-decoration: underline;
     color: rgb(26, 26, 255);
  }
+
+ .crvideo {
+    position: absolute;
+    top: 320px;
+    left: 110px;
+ } 
