@@ -59,9 +59,20 @@ img.lado {
     margin-top: 380px;
  } 
 
+ .titlevideo p {
+    color: #1b0461;
+    font-size: 40px;
+    font-weight: 900;
+    padding: 0;
+
+    margin: 80px 0 25px;
+    
+
+ }
+
 .video {
     padding: auto;
-    margin: 80px 540px 460px 517px;
+    margin: 0 540px 460px 517px;
     width: 690px;
 }
 
