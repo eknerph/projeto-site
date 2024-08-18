@@ -55,12 +55,13 @@ img.lado {
 
  .logo2 {
     position: absolute;
-    padding: 200px 0 0 1390px;
+    padding: 200px 0 0 1190px;
     margin-top: 380px;
  } 
 
 .video {
-    margin: 130px auto;
-    width: 560px;
+    padding: auto;
+    margin: 220px 540px 360px 517px;
+    width: 690px;
 }
 
